@@ -1,4 +1,7 @@
-# api documentation for  [jsqrcode (v0.0.7)](https://github.com/vicapow/jsqrcode#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsqrcode.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsqrcode) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsqrcode.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsqrcode)
+# npmdoc-jsqrcode
+
+#### basic api documentation for  [jsqrcode (v0.0.7)](https://github.com/vicapow/jsqrcode#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsqrcode.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsqrcode) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsqrcode.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsqrcode)
+
 #### a node port of Lazar Laszlo's `jsqrcode` qr code decoder
 
 [![NPM](https://nodei.co/npm/jsqrcode.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jsqrcode)
@@ -59,7 +62,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.0.7"
+    "version": "0.0.7",
+    "bin": {}
 }
 ```
 
